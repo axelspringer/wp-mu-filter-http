@@ -1,0 +1,20 @@
+{
+    "name": "muplugin/asse-filter-http",
+    "type": "wordpress-muplugin",
+    "description": "asse filter http",
+    "keywords": [
+        "wordpress",
+        "muplugin"
+    ],
+    "authors": [
+        {
+            "name": "Developer",
+            "homepage": "http://www.axelspringer.de"
+        }
+    ],
+    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-http/browse",
+    "license": "proprietary",
+    "extra": {
+        "installer-name": "asse-filter-http"
+    }
+}
