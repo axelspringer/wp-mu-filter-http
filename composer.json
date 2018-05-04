@@ -1,7 +1,7 @@
 {
-    "name": "muplugin/asse-filter-http",
+    "name": "axelspringer/wp-mu-filter-http",
     "type": "wordpress-muplugin",
-    "description": "asse filter http",
+    "description": "axelspringer filter http",
     "keywords": [
         "wordpress",
         "muplugin"
@@ -12,9 +12,9 @@
             "homepage": "http://www.axelspringer.de"
         }
     ],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-filter-http/browse",
-    "license": "proprietary",
+    "homepage": "https://github.com/axelspringer/wp-mu-filter-http",
+    "license": "Apache-2.0",
     "extra": {
-        "installer-name": "asse-filter-http"
+        "installer-name": "wp-mu-filter-http"
     }
 }
